@@ -172,6 +172,7 @@ public class Basic {
             System.out.println("Invalid amount. Must be positive and a multiple of 50.");
             return;
         }
+    
 
         int[] denominations = {2000, 500, 200, 100, 50};
         int remaining = amount;
