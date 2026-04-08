@@ -2,6 +2,8 @@ package Labs;
 
 import java.util.*;
 
+
+
 public class Lab1 {
     
 
@@ -10,7 +12,7 @@ public class Lab1 {
 // ══════════════════════════════════════════════
 // Q1. Bank Class
 // ══════════════════════════════════════════════
-class Bank {
+static class Bank {
     double amount;
 
     // Parameterized Constructor
